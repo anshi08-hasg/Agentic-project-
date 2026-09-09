@@ -1,4 +1,4 @@
-<!-- 
+<!--
 problem:
 Sometimes you're sitting in your room and want something from the vending machine, but you don't want to walk all the way there just to check what is available.
 
